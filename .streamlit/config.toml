@@ -2,3 +2,6 @@
 runOnSave = true
 headless = true
 enableCORS = false
+
+[watch]
+runOnSave = false
